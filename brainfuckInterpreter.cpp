@@ -3,7 +3,7 @@
 #include <string>
 
 // Autor: Alisson Augusto
-// desc: Intepretador simples de brainfuck
+// desc: Interpretador simples de brainfuck
 
 using namespace std;
 
